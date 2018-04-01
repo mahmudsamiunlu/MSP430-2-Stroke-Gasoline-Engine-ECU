@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSP430_ECU_Calibration", "MSP430_ECU_Calibration\MSP430_ECU_Calibration.csproj", "{62AEFC38-9688-4688-8C33-E29B2D468A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AEFC38-9688-4688-8C33-E29B2D468A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AEFC38-9688-4688-8C33-E29B2D468A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AEFC38-9688-4688-8C33-E29B2D468A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AEFC38-9688-4688-8C33-E29B2D468A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E4235E-1111-4D6F-8C64-415AC3D7F51A}
+	EndGlobalSection
+EndGlobal
